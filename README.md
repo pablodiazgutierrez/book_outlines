@@ -8,4 +8,4 @@ This project is a simple collection of book outilnes as I read them, for reflect
 * The Making of the Atomic Bomb, by Richard Rhodes
 
 ## Finished
-N/A
+None so far.
