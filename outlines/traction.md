@@ -1,4 +1,4 @@
-#Traction -- by Gabriel Weinberg
+#Traction -- by Gabriel Weinberg and Justin Mares
 
 This book provides a survey of startup growth (traction) channels, in the form of interviews or relevant stories. Each chapter revolves around an exemplary case of a company relevant to one traction strategy. Examples include viral marketing, public relations, content marketing, and so on.
 
@@ -29,3 +29,4 @@ The best way to approach a PR campaign is not directly, but obliquely. Don't jus
 * Offer to do the bulk of the work (i.e. offer a first draft roughly as long as their typical story)
 * Ride the wave for as long as possible. Offer follow interviews to sites that mentioned your story. Giveaways are nice.
 * Many reporters don't care for PR agencies but will listen to founders. Don't hire an agency too early.
+* Keep it short and sweet (KISS!)
