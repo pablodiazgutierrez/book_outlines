@@ -6,15 +6,15 @@ The author's argument is that there are only limited ways to grow a company, and
 
 Traction channels have a natural lifecycle. Strategies that work at a certain phase of the life of a company might stop working after a while. For example, DuckDuckGo found PR to be very useful in the beginning, but now that they have millions of users, a mention in The New York Times does not have a noticeable effect, so they started focusing on partnerships with device makers, ultimately closing a deal with Apple for Safari/iPhone.
 
-Below is a summary of some of the most relevant chapters, perhaps biased from the point of view of [Priority Matrix](http://www.appfluence.com).
+Below is a summary of some of the most relevant chapters, perhaps biased from the point of view of [Priority Matrix](http://www.appfluence.com). The individual chanels start on chapter 6, once the general framework has been introduced.
 
-## Chapter 6 - Viral Marketing
+### Chapter 6 - Viral Marketing
 (Read it a while back so I need to refresh my memory)
 * Hot or not
 * Viral coefficient (>1 -> viral; >.5 -> might help compound other growth channels)
 * Does not saturate naturally, unlike other channels, because it grows with the size of the userbase
 
-## Chapter 7 - Public Relations (PR)
+### Chapter 7 - Public Relations (PR)
 
 Public relations as a traction channel involves getting mentions in the media to put a product or service in front of an audience. In the past, PR agencies ruled this world because it used to be built on long term relationships with journalists who would respond to tips from trusted connections. This is an expensive approach for most startups, and in today's media landscape, one that is unlikely to work well.
 
