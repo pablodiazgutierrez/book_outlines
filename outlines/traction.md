@@ -30,3 +30,18 @@ The best way to approach a PR campaign is not directly, but obliquely. Don't jus
 * Ride the wave for as long as possible. Offer follow interviews to sites that mentioned your story. Giveaways are nice.
 * Many reporters don't care for PR agencies but will listen to founders. Don't hire an agency too early.
 * Keep it short and sweet (KISS!)
+
+### Unconventional PR http://tbook.us/upr
+Unconventional PR is any unusual way to get word of mouth and attention. Examples include publicity stunts, unusually great customer service, customer appreciation, contests and giveaways.
+
+* Companies that excel at this include: Grashopper.com, Hipmunk, Chargify, Zappos
+* Grasshopper sent chocolate covered grasshoppers to 500 entrepreneurs instead of making a vanilla PR announcement
+* Chargify placed a 600lb block of ice with dollar bills inside and a sign saying "Paypal freezes your accounts", in front of Paypal's own conference
+* Hipmunk routinely runs mother/father's day with contests telling people to say why they love their mom/dad more than Hipmunk
+* Grasshopper uses their own press attention to promote their users instead, creating goodwill
+* Grasshopper has 2 full time people dedicated to customer appreciation, sending homemade cookies, flowers, books and more to their customers
+* Half.com hired 2 residents of Halfway, OR and had them change the town's name for a year
+* Ideas:
+ * Send dedicated books to our users to show appreciation (I like giving away books I enjoyed, instead of keeping them on a shelf, so this is the same)
+ * Do something that helps our users focus on what matters in life. Things like doing their laundry so they can spend time with family.
+ * Hold a prioritization marathon, helping people decide between different areas of focus on their lives.
